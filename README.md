@@ -12,12 +12,12 @@
 <div align="center">
 Blablabla
 </div>
-<h2 align="center">Photo of 8bitdo controller</h2>
+<h2 align="center">Photo of 8bitdo controller🎮</h2>
 <br/>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/adf0b24f-6605-4d7c-a151-1b83aa4cc7bc" alt="Image" />
 </div>
-<h2 align="center">Photo of cables and adapters used</h2>
+<h2 align="center">Photo of cables and adapters used🔌</h2>
 <h2 align="center">Audio to AV</h2>
 <br/>
 <div align="center">
