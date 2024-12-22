@@ -27,7 +27,7 @@ This RetroPie console build uses a Raspberry Pi 4 to emulate classic systems lik
 <br/>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/390dc889-c6e5-4e73-8042-78769abcfb8e" alt="Image" /> 
-<img src="(https://github.com/user-attachments/assets/c7919c35-2e31-4057-8efc-476b4cbc83e4" alt="Image" /> 
+<img src="https://github.com/user-attachments/assets/c7919c35-2e31-4057-8efc-476b4cbc83e4" alt="Image" /> 
 <img src="https://github.com/user-attachments/assets/67b0ff2b-a3b2-461f-86d5-fd12cc7cf89b" alt="Image" /> 
 </div>
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
