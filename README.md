@@ -31,6 +31,6 @@ Blablabla
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,powershell,raspberrypi" />   
+    <img src="https://skillicons.dev/icons?i=github,powershell,raspberrypi,linux,retropi" />   
 </div>
 
