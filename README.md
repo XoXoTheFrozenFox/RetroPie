@@ -26,7 +26,9 @@ Blablabla
 <h2 align="center">HDMI to AV converter</h2>
 <br/>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/207071c9-8b20-4464-9d19-0c7e21f24fd2" alt="Image" />  
+<img src="https://github.com/user-attachments/assets/390dc889-c6e5-4e73-8042-78769abcfb8e" alt="Image" /> 
+<img src="(https://github.com/user-attachments/assets/c7919c35-2e31-4057-8efc-476b4cbc83e4" alt="Image" /> 
+<img src="https://github.com/user-attachments/assets/67b0ff2b-a3b2-461f-86d5-fd12cc7cf89b" alt="Image" /> 
 </div>
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
