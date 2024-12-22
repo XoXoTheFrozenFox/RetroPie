@@ -33,6 +33,6 @@ This RetroPie console build uses a Raspberry Pi 4 to emulate classic systems lik
 <h2 align="center">⚒️ Technologies used ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,powershell,raspberrypi,linux,retropi" />   
+    <img src="https://skillicons.dev/icons?i=github,powershell,raspberrypi,linux,windows" />   
 </div>
 
