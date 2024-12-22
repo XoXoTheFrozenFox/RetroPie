@@ -10,7 +10,7 @@
 <h2 align="center">Description of project</h2>
 <br/>
 <div align="center">
-Blablabla
+This RetroPie console build uses a Raspberry Pi 4 to emulate classic systems like NES and SNES. The setup includes a CRT TV for an authentic retro feel, with an Audio-to-AV converter to ensure clear sound and video through the TV. An 8BitDo wireless controller connects easily via Bluetooth, offering a nostalgic and responsive gaming experience. This simple yet powerful setup lets you enjoy your favorite retro games with ease.
 </div>
 <h2 align="center">Photo of 8bitdo controller🎮</h2>
 <br/>
